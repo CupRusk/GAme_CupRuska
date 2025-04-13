@@ -1,4 +1,4 @@
-# GAme_CupRuska — "Догонялки"
+# Game_CupRuska — "Догонялки"
 
 **Мини-игра на `pygame`, где два игрока соревнуются в ловкости. Один должен догнать другого до истечения времени.**
 
@@ -21,4 +21,4 @@
 ```bash
 pip install pygame pygame_gui
 git clone https://github.com/CupRusk/GAme_CupRuska
-python main.py```
+python main.py
