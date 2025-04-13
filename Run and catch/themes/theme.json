@@ -1,0 +1,10 @@
+{
+    "font_paths": {
+        "default": "NotoSans-Regular.ttf"
+    },
+    "default_font": "default",
+    "defaults": {
+        "font_size": 14,
+        "font_name": "default"
+    }
+}
